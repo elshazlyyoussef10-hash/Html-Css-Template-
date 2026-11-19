@@ -71,7 +71,6 @@ body {
 
 /* Start Header */
 header {
-  overflow: scroll;
   height: 60px;
 }
 .logo {
